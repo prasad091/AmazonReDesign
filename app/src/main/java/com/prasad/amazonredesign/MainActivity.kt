@@ -41,6 +41,3 @@ fun DefaultPreview() {
         Greeting("Android")
     }
 }
-
-data class Data(val age:Int,
-                val roll:Int,val name: String,val business:String)
